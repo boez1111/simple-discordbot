@@ -22,7 +22,7 @@ class MyClient(discord.Client):
             return
         if message.content.startswith("hi"):       #<==== you can put anything else there
             await message.channel.send("HI")       #if the message contains for example "hi" the bot sends you the message "HI" but fill free to put something else there
-                                                   #and you can copy/paste the last if-clausel to make more messsages that the bot is sending to you
+                                                   #and you can copy/paste the last if-clausel to make more messsages that the can send to you
 
 
 client = MyClient()
