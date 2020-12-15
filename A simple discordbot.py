@@ -5,7 +5,7 @@
 #Now klick on your application and go to the bot settings, klick on "Add Bot" and klick on "Yes, do it!"
 #Now you will find the token, copy it and paste it in the end of the code where I write "put in the token of the bot"
 #The next step is to go to the general information setttings and there you must copy the client id
-#After that go to https://discord.com/oauth2/authorize?&client_id=(put in the client id without brankets)&scope=bot
+#After that go to https://discord.com/oauth2/authorize?&client_id=(put in the client id without brackets)&scope=bot
 #Now you can invite the bot to your server. I hope you have fun with the bot.
 
 import discord
